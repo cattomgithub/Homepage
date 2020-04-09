@@ -1,4 +1,4 @@
 # Navigation
-Link:[cattom.space](cattom.space)
+Link:cattom.space
 
 My Navigation.
