@@ -1,4 +1,4 @@
 # Navigation
 Link:https://cattom.space/
 
-My Navigation.
+Just My Navigation.
