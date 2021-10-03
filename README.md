@@ -1,3 +1,5 @@
 # Homepage
+A Simple Personal Homepage.
 
-由 [Maria](https://maria.cattom.site/) 提供基础服务支持
+## Note
+The site is hosted in `master` branch via Alibaba OSS.
